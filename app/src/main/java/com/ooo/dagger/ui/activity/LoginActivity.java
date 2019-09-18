@@ -21,6 +21,7 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 
 /**
+ * Dagger2简介： https://www.jianshu.com/p/39d1df6c877d
  * Created by Dongdd on 2019/9/18 0018 11:02.
  */
 public class LoginActivity extends AppCompatActivity implements ICommonView {
